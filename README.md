@@ -12,10 +12,8 @@ We have **two robots**:
 
 **Defender Robot – protects goal area and blocks opponent**
 
-You can display two photos side by side using a Markdown table:
-
-| ![Defender Front](path_to_defender_front.jpg) | ![Defender Side](path_to_defender_side.jpg) |
-|-----------------------------------------------|--------------------------------------------
+![WhatsApp Image 2026-02-14 at 19 09 18](https://github.com/user-attachments/assets/7dcd41bb-a0af-477d-b9e6-9246fc3cdcc3)
+![WhatsApp Image 2026-02-14 at 19 05 09](https://github.com/user-attachments/assets/bd32ba4d-206b-4737-bfd1-72e60fd7d5f7)
 
 
 ---
@@ -23,11 +21,10 @@ You can display two photos side by side using a Markdown table:
 ## <span style="color:darkred">Player Robot</span>
 
 **Player Robot – attacks and moves the ball forward**
+![WhatsApp Image 2026-02-14 at 19 10 46](https://github.com/user-attachments/assets/a995facf-22b0-406f-b087-9fcea0197945)
+<img width="738" height="1000" alt="image" src="https://github.com/user-attachments/assets/7c9ba2ca-e514-4563-9853-393a1ba4b941" />
 
-| ![Player Front](<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/835e489c-7a49-4668-abcf-6fb75bac39bc" />
-) | ![Player Side](![WhatsApp Image 2026-02-14 at 19 10 46](https://github.com/user-attachments/assets/00ecb674-fce9-47b6-abce-6e2af944120c)
-) |
-|-------------------------------------------|----------------------------------------|
+
 
 ---
 
@@ -110,4 +107,3 @@ This repo contains everything needed to run **two robots** for Arduino Hackathon
 4. Full **settings panel** to adjust all robot parameters  
 
 Both robots are ready to assemble, configure, and test.
-
