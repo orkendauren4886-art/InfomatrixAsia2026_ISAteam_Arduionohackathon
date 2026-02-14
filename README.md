@@ -55,7 +55,7 @@ This allows full customization without editing the code.
 - Movement: forward/backward, sideways, rotation  
 - Supports speed modes, “hit” move, and kicker servo  
 
-**Library:** [PS5 Controller Library](#) *(insert link here)*  
+**Library:** [PS5 Controller Library](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JrQ0NicDhZT1hUcU5IbkpjQ0NocVJQY2thZ3xBQ3Jtc0tsNFhZc29keTZnREV4Y2lObDAtUW9BektIblVSZ3hyck5RZmZDd1Buc0I4cU5YSXZGR0Q4bDRmTHJBM3hzNXI5N0dlYzFIWExHQWxtSy12aHVjSFlxSUJVQ1UzUGFKbkJ1Sk5QTXpHMU10OHh5WVRDZw&q=https%3A%2F%2Fgithub.com%2Frodneybakiskan%2Fps5-esp32%2Farchive%2Frefs%2Fheads%2Fmain.zip&v=-ob3iKbw2jM)
 
 ### How to Use `ps5controlcode.ino`
 
