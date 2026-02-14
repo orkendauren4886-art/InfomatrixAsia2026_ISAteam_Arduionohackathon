@@ -15,9 +15,8 @@ We have **two robots**:
 You can display two photos side by side using a Markdown table:
 
 | ![Defender Front](path_to_defender_front.jpg) | ![Defender Side](path_to_defender_side.jpg) |
-|-----------------------------------------------|--------------------------------------------|
+|-----------------------------------------------|--------------------------------------------
 
-*(Replace `path_to_defender_front.jpg` and `path_to_defender_side.jpg` with your image files)*
 
 ---
 
@@ -25,7 +24,9 @@ You can display two photos side by side using a Markdown table:
 
 **Player Robot – attacks and moves the ball forward**
 
-| ![Player Front](path_to_player_front.jpg) | ![Player Side](path_to_player_side.jpg) |
+| ![Player Front](<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/835e489c-7a49-4668-abcf-6fb75bac39bc" />
+) | ![Player Side](![WhatsApp Image 2026-02-14 at 19 10 46](https://github.com/user-attachments/assets/00ecb674-fce9-47b6-abce-6e2af944120c)
+) |
 |-------------------------------------------|----------------------------------------|
 
 ---
