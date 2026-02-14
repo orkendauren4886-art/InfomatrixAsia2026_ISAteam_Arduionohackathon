@@ -106,3 +106,9 @@ This repo contains everything needed to run **two robots** for Arduino Hackathon
 4. Full **settings panel** to adjust all robot parameters  
 
 Both robots are ready to assemble, configure, and test.
+
+ROBOTS SCHEME
+![WhatsApp Image 2026-02-14 at 18 28 12](https://github.com/user-attachments/assets/27db7fcd-3b72-43b4-9402-07cb842bdb4d)
+
+
+
