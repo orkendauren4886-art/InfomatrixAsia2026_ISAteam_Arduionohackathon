@@ -123,3 +123,6 @@ Two connection options: ps5controlcode.ino (Bluetooth) and esp32_phonecontrolvia
 Full settings panel to adjust all robot parameters
 
 Both robots are ready to assemble, configure, and test.
+
+robots scheme
+![WhatsApp Image 2026-02-14 at 18 28 12](https://github.com/user-attachments/assets/2c84e9f2-7d69-4e53-91b2-452c8e49cce5)
